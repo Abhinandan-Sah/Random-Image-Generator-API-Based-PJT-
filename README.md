@@ -1,1 +1,2 @@
 # Random-Image-Generator-API-Based-PJT-
+ -> This Project is used to demonstrate how API(Application Programming Interface) is used full to get information from internet to our website and It's intergration with JavaScript.
